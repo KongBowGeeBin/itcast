@@ -22,9 +22,11 @@ public class Demo01 {
      insert into users(id,name,password,email,birthday) values(3,'ww','ww123','ww123@163.com','1982-03-03');
      */
     public static void main(String[] args) throws SQLException {
-        String url = "jdbc:mysql://localhost:3306/day14?serverTimezone=UTC";
-        String username = "root";
+
+        String url = "jdbc:mysql://139.88.4.133:3306/day14?serverTimezone=UTC";
+        String username = "hjh";
         String password = "95599nba";
+
         //1.加载驱动
         DriverManager.registerDriver(new com.mysql.cj.jdbc.Driver());
         //2.获取数据库连接
@@ -36,11 +38,12 @@ public class Demo01 {
         //5.从结果集中获取数据
         while (rs.next()){
             System.out.println("id" + rs.getObject("id"));
-            System.out.println("id" + rs.getObject("name"));
-            System.out.println("id" + rs.getObject("password"));
-            System.out.println("id" + rs.getObject("email"));
-            System.out.println("id" + rs.getObject("birthday"));
+            System.out.println("name" + rs.getObject("name"));
+            System.out.println("password" + rs.getObject("password"));
+            System.out.println("email" + rs.getObject("email"));
+            System.out.println("birthday" + rs.getObject("birthday"));
         }
+
         //6.释放资源
         rs.close();
         st.close();
