@@ -7,11 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a3b4937-0445-4b4a-a380-cbf79488db06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/src/itcast/hjh/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14/src/itcast/hjh/utils/JDBCUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day14/itcast/hjh/demo/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day14/itcast/hjh/demo/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/day14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day14/day14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo02.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +26,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="30" column="65" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="65" />
+            <state relative-caret-position="456">
+              <caret line="19" column="107" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="107" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2040">
+              <caret line="85" column="57" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,13 +60,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo02.java">
+        <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/utils/JDBCUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="1128">
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day14/src/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -52,25 +86,7 @@
             <state relative-caret-position="288">
               <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,6 +113,9 @@
         <option value="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo01.java" />
         <option value="$PROJECT_DIR$/day14/src/itcast/hjh/domain/User.java" />
         <option value="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo02.java" />
+        <option value="$PROJECT_DIR$/day14/src/db.properties" />
+        <option value="$PROJECT_DIR$/day14/src/itcast/hjh/utils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo03.java" />
       </list>
     </option>
   </component>
@@ -140,14 +159,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hjh" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javaweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaweb" type="462c0819:PsiDirectoryNode" />
-              <item name="day14" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hjh" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -156,15 +167,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571133898527" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571217177700" />
     <property name="last_opened_file_path" value="D:/Program Files/apache-tomcat-9.0.17" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -183,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo02">
+  <component name="RunManager" selected="JUnit.Demo03.getAll">
     <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="itcast.hjh.demo.Demo01" />
       <module name="day14" />
@@ -210,6 +226,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo03.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.hjh.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.hjh.demo" />
+      <option name="MAIN_CLASS_NAME" value="itcast.hjh.demo.Demo03" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.hjh.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.hjh.demo" />
+      <option name="MAIN_CLASS_NAME" value="itcast.hjh.demo.Demo03" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcast.hjh.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcast.hjh.demo" />
+      <option name="MAIN_CLASS_NAME" value="itcast.hjh.demo.Demo03" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.17" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -227,6 +291,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Demo03.getAll" />
+        <item itemvalue="JUnit.Demo03.update" />
+        <item itemvalue="JUnit.Demo03.insert" />
         <item itemvalue="Application.Demo02" />
         <item itemvalue="Application.Demo01" />
       </list>
@@ -250,16 +317,52 @@
       <workItem from="1570781740608" duration="5487000" />
       <workItem from="1571101280202" duration="8495000" />
       <workItem from="1571126016533" duration="5372000" />
+      <workItem from="1571193310669" duration="10011000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Demo03_insert - 2019.10.16 at 16h 14m 20s.xml">
+      <configuration name="Demo03.insert" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_update - 2019.10.16 at 16h 18m 10s.xml">
+      <configuration name="Demo03.update" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_getAll - 2019.10.16 at 16h 24m 13s.xml">
+      <configuration name="Demo03.getAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_getAll - 2019.10.16 at 16h 24m 35s.xml">
+      <configuration name="Demo03.getAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_getAll - 2019.10.16 at 16h 37m 07s.xml">
+      <configuration name="Demo03.getAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_getAll - 2019.10.16 at 16h 37m 55s.xml">
+      <configuration name="Demo03.getAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_getAll - 2019.10.16 at 16h 43m 13s.xml">
+      <configuration name="Demo03.getAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo03_getAll - 2019.10.16 at 16h 54m 25s.xml">
+      <configuration name="Demo03.getAll" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27945000" />
+    <option name="totallyTimeSpent" value="37956000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -269,18 +372,18 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16684724" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3954496" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.18851571" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -295,6 +398,13 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="user" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -327,48 +437,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="216">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="107" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/demo/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="85" column="57" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day14/src/itcast/hjh/utils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
