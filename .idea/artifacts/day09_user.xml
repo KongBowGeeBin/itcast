@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="day09_user:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/day09_user_war_exploded</output-path>
+  <artifact type="exploded-war" build-on-make="true" name="day09_user">
+    <output-path>$PROJECT_DIR$/out/artifacts/day09_user</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="day09_user/web/Web" />
       <element id="directory" name="WEB-INF">
