@@ -1,86 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="day09_user" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1c249f90-78f9-4576-b848-64a7edb78e46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/day09_user.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/day15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/day16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/javaweb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/mysql_connector_java_8_0_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/mysql_connector_java_8_0_171.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/day09_user.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/src/itcast/hjh/dao/impl/UserDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/src/itcast/hjh/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/src/itcast/hjh/utils/XmlUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/src/itcast/hjh/web/UI/LoginServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/src/itcast/hjh/web/UI/RegistServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/src/users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/classes/itcast/hjh/web/UI/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/classes/itcast/hjh/web/UI/RegistServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/jsp/regist.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/jsp/signin.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/style/bootstrap-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/style/regist.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day09_user/web/style/signin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/day14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/lib/mysql-connector-java-8.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/src/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/src/itcast/hjh/demo/Demo01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/src/itcast/hjh/demo/Demo02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/src/itcast/hjh/demo/Demo03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/src/itcast/hjh/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day14/src/itcast/hjh/utils/JDBCUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day15/day15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day15/src/itcast/hjh/utils/JdbcUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day15/src/itcast/hjh/utils/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day15/src/itcast/hjh/utils/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day15/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day15/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day16/day16.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day16/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day16/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/classes/itcast/hjh/web/UI/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/classes/itcast/hjh/web/UI/RegistServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/jsp/regist.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/jsp/signin.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/style/bootstrap-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/style/regist.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user/style/signin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/jsp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/style/bootstrap-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/style/regist.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/artifacts/day09_user_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/day14/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,22 +16,169 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day09_user/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/dao/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/users.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day09_user/src/junit/test/UserDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/utils/XmlUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day09_user/src/itcast/hjh/domain/User.java" />
+        <option value="$PROJECT_DIR$/day09_user/src/itcast/hjh/utils/XmlUtils.java" />
+        <option value="$PROJECT_DIR$/day09_user/src/itcast/hjh/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/day09_user/src/junit/test/UserDaoTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="140" />
     <option name="width" value="1027" />
     <option name="height" value="915" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day09_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day09_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day09_user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day09_user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day09_user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day09_user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day09_user" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574098207431" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day09_user/web/WEB-INF/lib/jaxen-1.1-beta-6.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaWeb\itcast\day09_user\web\WEB-INF\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaWeb\itcast\day09_user\src\itcast\hjh" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,6 +192,136 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.UserDaoTest.testFindByUsername">
+    <configuration name="UserDaoTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day09_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.test" />
+      <option name="MAIN_CLASS_NAME" value="junit.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day09_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.test" />
+      <option name="MAIN_CLASS_NAME" value="junit.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.testFindByUsername" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day09_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit.test" />
+      <option name="MAIN_CLASS_NAME" value="junit.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="testFindByUsername" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.17" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/day09_user/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="day09_user">
+          <settings>
+            <option name="CONTEXT_PATH" value="/day09_user" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_itcast" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60972" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day09_user" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest.testFindByUsername" />
+        <item itemvalue="JUnit.UserDaoTest.testFind" />
+        <item itemvalue="JUnit.UserDaoTest.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,54 +332,228 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573890397270</updated>
-      <workItem from="1573890398636" duration="7000" />
+      <workItem from="1573890398636" duration="3687000" />
+      <workItem from="1574082186322" duration="460000" />
+      <workItem from="1574093379742" duration="4668000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UserDaoTest_testFind - 2019.11.19 at 00h 56m 57s.xml">
+      <configuration name="UserDaoTest.testFind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFind - 2019.11.19 at 00h 57m 32s.xml">
+      <configuration name="UserDaoTest.testFind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFind - 2019.11.19 at 00h 58m 59s.xml">
+      <configuration name="UserDaoTest.testFind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFind - 2019.11.19 at 01h 02m 53s.xml">
+      <configuration name="UserDaoTest.testFind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFind - 2019.11.19 at 01h 24m 02s.xml">
+      <configuration name="UserDaoTest.testFind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFind - 2019.11.19 at 01h 25m 51s.xml">
+      <configuration name="UserDaoTest.testFind" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFindByUsername - 2019.11.19 at 01h 27m 37s.xml">
+      <configuration name="UserDaoTest.testFindByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFindByUsername - 2019.11.19 at 01h 29m 31s.xml">
+      <configuration name="UserDaoTest.testFindByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFindByUsername - 2019.11.19 at 01h 30m 00s.xml">
+      <configuration name="UserDaoTest.testFindByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testFindByUsername - 2019.11.19 at 01h 30m 10s.xml">
+      <configuration name="UserDaoTest.testFindByUsername" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7000" />
+    <option name="totallyTimeSpent" value="8815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.25725028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.50111854" side_tool="true" weight="0.25725028" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32997763" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32997763" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="dao" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/web/UI/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09_user/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/day09_user/web/WEB-INF/lib/dom4j-2.1.1.jar!/org/dom4j/xpath/XPathPattern.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="38" selection-start-line="18" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/users.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09_user/src/itcast/hjh/utils/XmlUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09_user/src/junit/test/UserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>day09_user</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day09_user</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

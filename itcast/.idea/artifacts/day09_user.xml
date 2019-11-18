@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day09_user">
+    <output-path>$PROJECT_DIR$/out/artifacts/day09_user</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day09_user" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/day09_user/web/WEB-INF/lib/dom4j-2.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day09_user/web/WEB-INF/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day09_user/web/WEB-INF/lib/commons-beanutils-1.9.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/day09_user/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="day09_user/web/Web" />
+    </root>
+  </artifact>
+</component>
