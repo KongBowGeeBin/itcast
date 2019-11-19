@@ -35,7 +35,7 @@ public class UserDaoTest {
     public void testFindByUsername(){
         UserDaoImpl dao = new UserDaoImpl();
 
-        System.out.println(dao.find("王五"));
+        System.out.println(dao.find("李四"));
     }
 
 }

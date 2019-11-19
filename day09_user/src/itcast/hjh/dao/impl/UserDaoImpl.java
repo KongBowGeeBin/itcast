@@ -8,8 +8,9 @@ import org.dom4j.Element;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 
-public class UserDaoImpl {
+public class UserDaoImpl implements itcast.hjh.dao.UserDao {
 
+    @Override
     public void add(User user){
         try {
             Document document = XmlUtils.getDocument();
@@ -27,7 +28,8 @@ public class UserDaoImpl {
         }
     }
 
-    public User find(String username,String password){
+    @Override
+    public User find(String username, String password){
         try {
             Document document = XmlUtils.getDocument();
             Element element = (Element) document.selectSingleNode("//user[@username='"+username+"' and @password='"+password+"']");
@@ -54,6 +56,7 @@ public class UserDaoImpl {
 
     }
 
+    @Override
     public boolean find(String username){
         try {
             Document document = XmlUtils.getDocument();
@@ -66,15 +69,6 @@ public class UserDaoImpl {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
-    }
-
-    public void delete(){
-
-    }
-
-    public User update(){
-
-        return null;
     }
 
 }

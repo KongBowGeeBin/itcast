@@ -2,5 +2,5 @@
 
 <users> 
   <user id="123" username="张三" password="123" email="zs@123.com" birthday="1970-01-01" nickname="zhang san"/>  
-  <user id="234" username="李四" password="234" birthday="2019年11月19日 上午12:51:03" email="234@163.com" nickname="li si"/>
+  <user id="234" username="李四" password="234" birthday="2019-11-19 9:53:54" email="234@163.com" nickname="li si"/>
 </users>
