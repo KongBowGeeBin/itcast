@@ -18,7 +18,7 @@
 </head>
 <body>
 <div>
-  <form class="form-signin" action="/RegistServlet" method="post">
+  <form class="form-signin" action="" method="post">
     <img class="mb-4" src="${pageContext.request.contextPath }/style/bootstrap-solid.svg" alt="" width="72" height="72">
     <h1 class="h3 mb-3 font-weight-normal">Please sign up</h1>
 

@@ -22,8 +22,6 @@ public class BusinessServiceImpl {
 
     public User login(String username,String password){
         password = ServiceUtils.md5(password);
-
-
         return dao.find(username,password);
     }
 
